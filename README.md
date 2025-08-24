@@ -1,3 +1,3 @@
-#codecademu-open-source
+#codecademy-open-source
 
 Doing some github training
